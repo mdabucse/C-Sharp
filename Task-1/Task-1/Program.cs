@@ -14,6 +14,10 @@ class Program
             }
             Console.WriteLine("The Factorial Value is " + fact);
         }
+        else
+        {
+            Console.WriteLine("Enter Positive Number ");
+        }
 
     }
 }
